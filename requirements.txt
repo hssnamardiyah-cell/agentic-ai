@@ -1,0 +1,13 @@
+streamlit
+transformers
+sentencepiece
+rdkit
+joblib
+pandas
+numpy
+scikit-learn
+qdrant-client
+accelerate
+langchain
+langchain-openai
+langgraph
